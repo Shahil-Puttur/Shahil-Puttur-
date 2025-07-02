@@ -1,6 +1,6 @@
-<!-- ✨ Typing Animation Header -->
+<!-- ✨ Typing Animation Header in Blue -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FEEF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Shahil+from+Puttur.;BCA+Student+%7C+Aspiring+Developer+%F0%9F%92%BB;Learning+Python+and+Web+Development+%F0%9F%92%A1;Dreaming+to+Work+at+Google%2C+Microsoft+or+OpenAI+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=007BFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Shahil+from+Puttur.;BCA+Student+%7C+Aspiring+Developer+%F0%9F%92%BB;Learning+Python+and+Web+Development+%F0%9F%92%A1;Dreaming+to+Work+at+Google%2C+Microsoft+or+OpenAI+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
